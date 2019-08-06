@@ -1,4 +1,4 @@
-import { parse, text } from '@fortawesome/fontawesome-svg-core'
+import { parse, text } from '@apility/fontawesome-svg-core'
 import convert from '../converter'
 import { objectWithKey } from '../utils'
 
