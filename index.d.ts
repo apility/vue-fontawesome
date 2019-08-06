@@ -1,4 +1,4 @@
-declare module '@fortawesome/vue-fontawesome' {
+declare module '@apility/vue-fontawesome' {
   import { FunctionalComponentOptions } from 'vue'
   import { PropsDefinition } from 'vue/types/options'
   interface FontAwesomeIconProps { }
